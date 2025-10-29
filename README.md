@@ -85,6 +85,4 @@ Para replicar este análisis, sigue estos pasos:
 
 ## 👤 Autor
 
-* **[Tu Nombre]**
-* [Tu LinkedIn](https://www.linkedin.com/in/tu-usuario/)
-* [Tu Portafolio](https://tu-sitio-web.com)
+* **Abraham Contreras**
